@@ -1,0 +1,5 @@
+# IDE settings
+.vscode
+
+# Python files
+env/

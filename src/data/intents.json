@@ -1,0 +1,22 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Salut tout le monde!",
+                "Hello",
+                "Hey",
+                "Comment ça va ?",
+                "ça dit quoi ?",
+                "Vous allez bien ?"
+            ],
+            "responses": [
+                "Moins de bruit !",
+                "J'essaye de dormir, silence.",
+                "Toujours le même qui crie tout seul comme un abruti",
+                "Oh non, pas encore lui",
+                "Encore... j'aurais juré qu'il était parti celui-ci..."
+            ]
+        }
+    ]
+}
