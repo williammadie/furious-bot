@@ -17,6 +17,20 @@
                 "Oh non, pas encore lui",
                 "Encore... j'aurais juré qu'il était parti celui-ci..."
             ]
+        },
+        {
+            "tag": "birthday",
+            "patterns": [
+                "Joyeux anniversaire!",
+                "Bon anniversaire",
+                "Joyeux 26 ans"
+            ],
+            "responses": [
+                "Je déteste les anniversaires",
+                "Je te souhaite une très mauvaise journée",
+                "Arrêtez, j'en peux plus de toute cette bonne humeur",
+                "Les années passent et tu es toujours aussi stupide"
+            ]
         }
     ]
 }

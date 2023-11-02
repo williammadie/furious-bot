@@ -2,7 +2,7 @@ import numpy as np
 import unittest
 
 
-from src.nlp_preprocessor import NlpPreprocessor
+from src.ml.nlp_preprocessor import NlpPreprocessor
 
 
 class TestCalculations(unittest.TestCase):
